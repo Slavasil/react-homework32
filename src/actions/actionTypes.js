@@ -1,0 +1,6 @@
+export const DOWNLOAD_LIST_REQUEST = 0;
+export const DOWNLOAD_LIST_SUCCESS = 1;
+export const DOWNLOAD_LIST_FAILURE = 2;
+export const DOWNLOAD_DETAILS_REQUEST = 3;
+export const DOWNLOAD_DETAILS_SUCCESS = 4;
+export const DOWNLOAD_DETAILS_FAILURE = 5;
